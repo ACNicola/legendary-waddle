@@ -1,2 +1,2 @@
 Write a fictional story about testing chemical compounds.
-Additional Requirements here: https://github.com/ACNicola/legendary-waddle/edit/main/AddedRequirements.txt
+Additional Requirements here: https://github.com/ACNicola/legendary-waddle/blob/main/AddedRequirements.txt
